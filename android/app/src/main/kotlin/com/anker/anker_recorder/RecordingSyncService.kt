@@ -90,7 +90,7 @@ class RecordingSyncService : Service() {
         }
         return builder
             .setSmallIcon(R.drawable.ic_sync_notification)
-            .setContentTitle("安克录音豆")
+            .setContentTitle("deepsound")
             .setContentText("正在后台同步录音")
             .setCategory(Notification.CATEGORY_SERVICE)
             .setContentIntent(contentIntent)

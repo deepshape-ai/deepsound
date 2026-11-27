@@ -29,13 +29,13 @@
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
 	<key>NSBluetoothAlwaysUsageDescription</key>
-	<string>Soundcore Manager uses Bluetooth to find and manage your soundcore Work device.</string>
+	<string>deepsound uses Bluetooth to find and manage your soundcore Work device.</string>
 	<key>NSBluetoothPeripheralUsageDescription</key>
-	<string>Soundcore Manager uses Bluetooth to find and manage your soundcore Work device.</string>
+	<string>deepsound uses Bluetooth to find and manage your soundcore Work device.</string>
 	<key>NSLocalNetworkUsageDescription</key>
-	<string>Soundcore Manager connects directly to your recorder's Wi-Fi hotspot to export recordings.</string>
+	<string>deepsound connects directly to your recorder's Wi-Fi hotspot to export recordings.</string>
 	<key>CFBundleDisplayName</key>
-	<string>安克录音豆</string>
+	<string>deepsound</string>
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>

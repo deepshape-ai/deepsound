@@ -49,7 +49,7 @@ class SoundcoreManagerApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final app = MaterialApp(
-      title: '安克录音豆',
+      title: 'deepsound',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.light,
       home: const AppShell(),
